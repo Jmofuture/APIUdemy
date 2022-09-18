@@ -11,7 +11,7 @@
 <p>
     Usé las librerías:
 <div>
-    <img src="https://drmowinckels.io/workshops/workshops-tidyquintro/logo.png" alt="LogoTidyverse" width="300px" height="200px">
+    <img src="https://drmowinckels.io/workshops/workshops-tidyquintro/logo.png" alt="LogoTidyverse" width="350px" height="200px">
 </div>
     <ul>
         <li>Tidyverse</li>    
