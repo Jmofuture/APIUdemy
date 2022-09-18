@@ -25,4 +25,4 @@
     Una foto de los Scripts resultantes:
 </p>
 
-<img src="\Excel\Assets\URLs Inicial">
+<img src="\Excel\Assets\URLs Inicial.svg">
