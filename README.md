@@ -25,4 +25,5 @@
     Una foto de los Scripts resultantes:
 </p>
 
-<img src="\Excel\Assets\URLs Inicial.svg">
+![URLsInicial](https://user-images.githubusercontent.com/78714438/190920821-610fa39d-c319-47b9-b8b1-da8017bcb9ea.svg)
+
