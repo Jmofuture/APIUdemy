@@ -11,9 +11,9 @@
 <p>
     Usé las librerías:
     <ul>
-        <li>Tidyverse <img src="https://drmowinckels.io/workshops/workshops-tidyquintro/logo.png" alt="LogoTidyverse"></li>    
+        <li>Tidyverse <img src="https://drmowinckels.io/workshops/workshops-tidyquintro/logo.png" alt="LogoTidyverse" width="50px" height="50px"></li>    
         <li>Httr</li>    
-        <li>Readr <img src="https://d33wubrfki0l68.cloudfront.net/c1c91484f898fe9d7d90a570900f1d5cd703fe2e/d7df4/css/images/hex/readr.png" alt="LogoReadr"></li>    
+        <li>Readr <img src="https://d33wubrfki0l68.cloudfront.net/c1c91484f898fe9d7d90a570900f1d5cd703fe2e/d7df4/css/images/hex/readr.png" alt="LogoReadr" width="50px" height="50px"></li>    
         <li>Jsonlite</li>          
     </ul>
 </p>
