@@ -88,25 +88,25 @@ url_cursos_web <- paste(url_base,course_url_web, sep = "")
 # Transformamos en Tabla
 
 df_excel <- data.frame(date,title_excel,url_cursos_excel) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosExcel.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
 
 df_powerbi <- data.frame(date,title_powerbi,url_cursos_powerbi) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosPowerBi.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
 
 df_tableau <- data.frame(date,title_tableau,url_cursos_tableau) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosTableau.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
 
 df_sql <- data.frame(date,title_sql,url_cursos_sql) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosSQL.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
 
 df_r <- data.frame(date,title_r,url_cursos_r) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosR.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
 
 df_python <- data.frame(date,title_python,url_cursos_python) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosPython.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
 
 df_an <- data.frame(date,title_an,url_cursos_an) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosBBDD.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
 
 df_web <- data.frame(date,title_web,url_cursos_web) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\CursosWeb.csv")
+  write_excel_csv(file = "C:\\RUTA.csv")
