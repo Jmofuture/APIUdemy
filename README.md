@@ -25,5 +25,15 @@
     Una foto de los Scripts resultantes:
 </p>
 
+<div>
+    <h2>Script Inicial</h2>
+</div>
+
 ![URLsInicial](https://user-images.githubusercontent.com/78714438/190920821-610fa39d-c319-47b9-b8b1-da8017bcb9ea.svg)
+
+<div>
+    <h2>Script Refactorizado</h2>
+</div>
+
+![RefactorURLs](https://user-images.githubusercontent.com/78714438/190920871-ba0c5e63-0a5d-4bb8-871a-05af9b7b659f.svg)
 
