@@ -66,7 +66,7 @@ json.response <- for (url in url_table) {
 
 
 df <- data.frame(date,titles,courses) %>% 
-  write_excel_csv(file = "C:\\Users\\jeano\\OneDrive\\Escritorio\\API Udemy\\Excel\\Cursos.csv") # Transformamos en Tabla
+  write_excel_csv(file = "C:RUTA//Cursos.csv") # Transformamos en Tabla
 
 
 
