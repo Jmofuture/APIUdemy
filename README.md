@@ -11,8 +11,8 @@
 <p>
     Usé las librerías:
 <div>
-    <img src="https://drmowinckels.io/workshops/workshops-tidyquintro/logo.png" alt="LogoTidyverse" width="50px" height="50px">
-    <img src="https://d33wubrfki0l68.cloudfront.net/c1c91484f898fe9d7d90a570900f1d5cd703fe2e/d7df4/css/images/hex/readr.png" alt="LogoReadr" >
+    <img src="https://drmowinckels.io/workshops/workshops-tidyquintro/logo.png" alt="LogoTidyverse" width="100px" height="100px">
+    <img src="https://d33wubrfki0l68.cloudfront.net/c1c91484f898fe9d7d90a570900f1d5cd703fe2e/d7df4/css/images/hex/readr.png" alt="LogoReadr" width="100px" height="100px" >
 
 </div>
     <ul>
