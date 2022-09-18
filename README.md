@@ -8,3 +8,12 @@
     pasar de generar un CSV por cada tema a crear un solo archivo con todos los cursos listados.
 </p>
 
+<p>
+    Usé las librerías:
+    <ul>
+        <li>Tidyverse</li>    
+        <li>Httr</li>    
+        <li>Readr</li>    
+        <li>Jsonlite</li>          
+    </ul>
+</p>
