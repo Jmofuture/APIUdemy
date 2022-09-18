@@ -9,6 +9,12 @@
 </p>
 
 <p>
+    Gracias a este proyecto añadí a mi Web la sección Recursos, donde centralice y compartí todo los cursos ordenados por tecnología e idioma.
+</p>
+
+<a href="https://www.jmofuture.com/recursos" target="_blank">Recursos</a>
+
+<p>
     Usé las librerías:
 <div>
     <img src="https://drmowinckels.io/workshops/workshops-tidyquintro/logo.png" alt="LogoTidyverse" width="350px" height="200px">
